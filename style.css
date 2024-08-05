@@ -1,0 +1,97 @@
+body{
+    background-image: url('https://img.freepik.com/premium-photo/geometric-black-background-abstract-4k-dark-tone-black-wallpaper-backdrop-gradient-animation_715671-1555.jpg');
+    background-size: cover;
+}
+h1{
+    font-size: 20px;
+    padding-left: 70px;
+    padding-top: 20px;
+    font-style: normal;
+    font-family:"times new roman";
+    color: cyan;
+}
+.navbar {
+    margin: 10px 70px;
+    overflow: hidden;
+    padding: 0 20px;
+
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: cyan;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: teal;
+    color: black;
+}
+#home h2{
+    font-size: 40px;
+    padding: 150px; 
+    height: small;
+    padding-top: 8px;
+    padding-right: 647px;
+    padding-left: 647px;
+    color: cyan; 
+}
+#home img{
+    padding-top: 100px;
+    padding-left: 655px;
+    padding-right: 655px;
+
+}
+
+
+
+p{
+    padding: 0 70px;
+}
+#home p{
+    font-size: 40px;
+
+
+}
+#about .pad{
+    font-size: 45px;
+    padding-top: 100px;
+    padding-left: 70px;
+    font-family: "times new roman";
+    color: cyan;
+}
+#about p{
+    font-size: 25px;
+    font-family: "times new roman";
+    color: cyan;
+}
+#skill .temp{
+    font-size: 45px;
+    padding-top: 100px;
+    padding-left: 70px;
+    font-family: "times new roman";
+    color: cyan;
+}
+#skill ul{
+    font-size: 25px;
+    font-family: "times new roman";
+    padding-left: 100px;
+    padding-bottom: 160px;
+    color: cyan;
+}
+#contact .pad{
+    font-size: 45px;
+    padding-top: 100px;
+    padding-left: 70px;
+    font-family: "times new roman";
+    color: cyan;
+}
+#contact p{
+    font-family: "times new roman";
+    font-size: 25px;
+    color: cyan;
+}
